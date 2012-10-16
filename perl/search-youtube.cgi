@@ -11,7 +11,7 @@
 	&main();
 
 	sub main {
-		my $kw = "‹TˆäŠG—¢";
+		my $kw = "ã‚‚ã‚‚ã‚¯ãƒ­";
 		my $h = &search_youtube($kw);
 	}
 
