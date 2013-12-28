@@ -11,7 +11,7 @@
 	&main();
 
 	sub main {
-		my $kw = "ももクロ";
+		my $kw = "[Search Word]";
 		my $h = &search_youtube($kw);
 	}
 
